@@ -1,0 +1,84 @@
+{
+  "created_at_utc": "2026-08-24T10:16:47.895008+00:00",
+  "path": "/home/user/workspace/cron_tracking/4e52c831/assets_20260824_run88_safe/cross_asset_messages_20260824.png",
+  "width": 1600,
+  "height": 900,
+  "x_crop_safe": true,
+  "x_feed_safe": true,
+  "safe_zone_pct": 0.1,
+  "title": "One month. Seven cross-asset messages.",
+  "window": "2026-07-24 to 2026-08-21",
+  "series": [
+    {
+      "ticker": "GLD",
+      "label": "Gold ETF",
+      "start_date": "2026-07-24",
+      "end_date": "2026-08-21",
+      "start_close": 371.9,
+      "end_close": 423.36,
+      "return_pct": 13.837052971228836,
+      "source_file": "/home/user/workspace/.tool_artifacts/finance/call_4i637RxWkIO8DOJJMVTBvpXl/GLD_price_history_2026-07-24_2026-08-24_1day_4ed82c.csv"
+    },
+    {
+      "ticker": "SPY",
+      "label": "US large caps",
+      "start_date": "2026-07-24",
+      "end_date": "2026-08-21",
+      "start_close": 738.93,
+      "end_close": 765.72,
+      "return_pct": 3.6255125654662823,
+      "source_file": "/home/user/workspace/.tool_artifacts/finance/call_4i637RxWkIO8DOJJMVTBvpXl/SPY_price_history_2026-07-24_2026-08-24_1day_4ed82c.csv"
+    },
+    {
+      "ticker": "FXY",
+      "label": "Yen ETF",
+      "start_date": "2026-07-24",
+      "end_date": "2026-08-21",
+      "start_close": 56.04,
+      "end_close": 57.7,
+      "return_pct": 2.9621698786581163,
+      "source_file": "/home/user/workspace/.tool_artifacts/finance/call_4i637RxWkIO8DOJJMVTBvpXl/FXY_price_history_2026-07-24_2026-08-24_1day_4ed82c.csv"
+    },
+    {
+      "ticker": "HYG",
+      "label": "High yield credit",
+      "start_date": "2026-07-24",
+      "end_date": "2026-08-21",
+      "start_close": 79.23,
+      "end_close": 79.61,
+      "return_pct": 0.47961630695443347,
+      "source_file": "/home/user/workspace/.tool_artifacts/finance/call_4i637RxWkIO8DOJJMVTBvpXl/HYG_price_history_2026-07-24_2026-08-24_1day_4ed82c.csv"
+    },
+    {
+      "ticker": "LQD",
+      "label": "IG credit",
+      "start_date": "2026-07-24",
+      "end_date": "2026-08-21",
+      "start_close": 106.23,
+      "end_close": 105.92,
+      "return_pct": -0.29181963663749144,
+      "source_file": "/home/user/workspace/.tool_artifacts/finance/call_4i637RxWkIO8DOJJMVTBvpXl/LQD_price_history_2026-07-24_2026-08-24_1day_4ed82c.csv"
+    },
+    {
+      "ticker": "TLT",
+      "label": "Long Treasuries",
+      "start_date": "2026-07-24",
+      "end_date": "2026-08-21",
+      "start_close": 83.25,
+      "end_close": 82.05,
+      "return_pct": -1.441441441441449,
+      "source_file": "/home/user/workspace/.tool_artifacts/finance/call_4i637RxWkIO8DOJJMVTBvpXl/TLT_price_history_2026-07-24_2026-08-24_1day_4ed82c.csv"
+    },
+    {
+      "ticker": "UUP",
+      "label": "Dollar ETF",
+      "start_date": "2026-07-24",
+      "end_date": "2026-08-21",
+      "start_close": 28.58,
+      "end_close": 27.9,
+      "return_pct": -2.3792862141357562,
+      "source_file": "/home/user/workspace/.tool_artifacts/finance/call_4i637RxWkIO8DOJJMVTBvpXl/UUP_price_history_2026-07-24_2026-08-24_1day_4ed82c.csv"
+    }
+  ],
+  "repair": "xlim expanded to preserve rightmost bar, label, and value"
+}
